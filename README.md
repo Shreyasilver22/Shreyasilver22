@@ -65,8 +65,8 @@ Copy code
   '.    '-| |-'    
     ':_   | |   _:
       '""' '"'""
-💬 Random Fact: I once debugged an FPGA design at 3 AM with lo-fi beats on loop.
-🎯 Goal: To design a neural-enabled RISC-V SoC for intelligent edge robotics.
+💬 Random Fact: I once debugged an FPGA design at 3 AM listening to Don-Toliver No idea.
+🎯 Goal: To design a neural-enabled RISC-V SoC for intelligent edge devices and have an ASIC tapeout by 2027.
 🤖 Mood: "Make silicon think."
 
 🔗 Connect with Me
